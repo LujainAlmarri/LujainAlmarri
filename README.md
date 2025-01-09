@@ -29,9 +29,6 @@ Here, I share my projects across various domains, including **Deep Learning**, *
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/matlab.png" title="MATLAB"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" title="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/>
   <img src="https://img.icons8.com/dusk/64/000000/php-logo.png" title="PHP"/>
