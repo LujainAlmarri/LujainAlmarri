@@ -1,12 +1,16 @@
-# README
+# Welcome to My GitHub! 🚀
 
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/computer.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png"/>
 </p>
 
 ## About Me:
 
-Hello there! 👋 I'm Lujain Almarri, a Computer Science student with a passion for Artificial Intelligence. I am constantly exploring and learning about the latest advancements in the field. My journey involves diving into various programming languages and tools to enhance my skills.
+Hi there! 👋 I'm **Lujain Almarri**, a **Senior Computer Science Student** specializing in **Artificial Intelligence (AI)** and **Machine Learning (ML)**. I'm passionate about leveraging technology to solve real-world problems and creating innovative solutions.  
+
+Here, I share my projects across various domains, including **Deep Learning**, **Data Science**, and **Sustainable Technology**. My journey is fueled by curiosity and a love for exploring new tools and technologies to push boundaries.
+
+---
 
 ## GitHub Stats:
 
@@ -14,34 +18,50 @@ Hello there! 👋 I'm Lujain Almarri, a Computer Science student with a passion 
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical"/>
 </p>
 
-<!-- Replace "YourGitHubUsername" with your actual GitHub username. You can get the GitHub Stats badge by visiting: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Replace "YourGitHubUsername" with your actual GitHub username. Get your stats badge here: https://github.com/anuraghazra/github-readme-stats -->
 
-## Languages and Tools:
+---
+
+## Languages and Tools I Use:
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/java-duke-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github.png"/>
-  <img src="https://img.icons8.com/color/48/000000/version.png"/>
-  <img src="https://img.icons8.com/color/48/000000/matlab.png"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/matlab.png" title="MATLAB"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/>
+  <img src="https://img.icons8.com/dusk/64/000000/php-logo.png" title="PHP"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" title="SQL"/>
 </p>
 
-Feel free to explore my repositories to see the projects I'm currently working on and have completed.
+---
 
-## Contact Me:
+## Featured Projects:
+
+- 🔍 **[Mobile Specification Analysis](#)**: An AI-driven analysis to uncover key drivers of price and performance.
+- 📊 **[Social Media Trends Analysis](#)**: Insights into patterns and user behavior using data visualization.
+
+Explore my repositories for more! 🌟  
+
+---
+
+## Let's Connect:
 
 <p align="center">
-  <a href="mailto:lubukassim@effat.edu.sa">
-    <img src="https://img.icons8.com/fluent/48/000000/email.png"/>
+  <a href="mailto:lujain.almarri.cs@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/email.png" title="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lujain-almarri">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" title="LinkedIn"/>
   </a>
 </p>
 
-Feel free to reach out if you have any questions, want to collaborate, or just chat about all things AI and programming. I'm always open to connecting with fellow enthusiasts! 😊
+Feel free to reach out for collaborations, questions, or just a friendly chat about all things tech and AI! 🌍  
 
-Happy coding! 🚀
+---
+
+**Happy coding! 💻**
