@@ -49,7 +49,7 @@ Explore my repositories for more! 🌟
 ## Let's Connect:
 
 <p align="center">
-  <a href="mailto:lujain.almarri.cs@gmail.com">
+  <a href="mailto:eng.lujalmarri@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/email.png" title="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/lujain-almarri">
