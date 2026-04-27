@@ -28,16 +28,6 @@ My journey so far:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical"/>
-</p>
-
-<!-- Replace "YourGitHubUsername" with your actual GitHub username -->
-
----
-
 ## 🛠️ Languages & Tools
 
 <p align="center">
