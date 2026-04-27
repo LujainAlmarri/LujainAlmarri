@@ -1,7 +1,3 @@
-Here’s your improved **README.md** rewritten in the same clean GitHub style, but stronger from a *personal branding + AI positioning* perspective:
-
----
-
 # Welcome to My GitHub! 🚀
 
 <p align="center">
