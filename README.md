@@ -22,9 +22,9 @@ I’m especially interested in:
 My journey so far:
 
 * 🎓 Graduated with Honors in Computer Science (AI Track)
-* 📊 Experience in Data Analytics, ITSM & ERP Systems (Odoo)
 * 🧠 Published **3 research papers** at IEEE Learning & Technology Conference 2025
-* 💼 Currently working as an **Associate Consultant at Sapiency** (AI, Data & Strategy)
+* 🏅 Selected as Vice President of the Effat Alumni Association, recognizing leadership and impact  
+* 💼 Currently working as an **AI Product** 
 
 ---
 
