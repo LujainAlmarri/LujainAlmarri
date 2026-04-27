@@ -39,8 +39,8 @@ My journey so far:
   <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
   <img src="https://img.icons8.com/dusk/64/000000/php-logo.png" title="PHP"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" title="SQL"/>
-  <img src="https://img.icons8.com/fluency/48/000000/power-bi.png" title="Power BI"/>
-  <img src="https://img.icons8.com/color/48/000000/excel.png" title="Excel"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Excel"/>
 </p>
 
 ---
