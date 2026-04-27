@@ -1,21 +1,34 @@
+Here’s your improved **README.md** rewritten in the same clean GitHub style, but stronger from a *personal branding + AI positioning* perspective:
+
+---
+
 # Welcome to My GitHub! 🚀
 
 <p align="center">
   <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png"/>
 </p>
 
+---
+
 ## 👩‍💻 About Me
 
-Hi there! 👋 I'm **Lujain Almarri**, a **Computer Science graduate from Effat University**, specializing in **Artificial Intelligence (AI)** and **Machine Learning (ML)**.
+Hi there! 👋 I'm **Lujain Almarri**, an **AI Engineer & AI Product Specialist**, with a background in **Computer Science (Artificial Intelligence concentration)**.
 
-I'm passionate about using smart technologies to solve real-world challenges — from AI-driven analytics to sustainable and scalable digital solutions. I believe in the power of innovation, data, and collaboration to drive impact.
+I focus on building **AI-driven solutions powered by data**, combining technical expertise with product and business thinking. My goal is to bridge the gap between **AI technology and real-world impact**.
 
-My recent journey includes:
+I’m especially interested in:
 
-- 🎓 Graduated with Honors in CS (AI Concentration)
-- 📊 COOP Internship in ITSM, Data Analytics, and ERP (Odoo)
-- 🧠 Published 3 research papers and presented at the IEEE Learning & Technology Conference 2025
-- 🌐 Working as a **Part-Time Associate Consultant at Sapiency** (Remote)
+* 🤖 AI-powered products & automation
+* 📊 Data-driven decision making
+* 🧠 Machine Learning & NLP applications
+* 🌍 Scalable solutions aligned with Vision 2030
+
+My journey so far:
+
+* 🎓 Graduated with Honors in Computer Science (AI Track)
+* 📊 Experience in Data Analytics, ITSM & ERP Systems (Odoo)
+* 🧠 Published **3 research papers** at IEEE Learning & Technology Conference 2025
+* 💼 Currently working as an **Associate Consultant at Sapiency** (AI, Data & Strategy)
 
 ---
 
@@ -46,16 +59,35 @@ My recent journey includes:
 
 ---
 
+## 🧠 Core Skills
+
+* 🤖 **AI & Machine Learning:** Model Development, NLP, Feature Engineering
+* 📊 **Data Analytics:** Data Cleaning, Visualization, Insights Generation
+* 💻 **Development:** Python, APIs, Web Development
+* 🏗️ **Systems:** ERP (Odoo), IT Systems, Networking
+* 💡 **Consulting:** Problem Solving, Business Analysis, Product Thinking
+
+---
+
+## 💼 Services I Offer
+
+* 🤖 **AI Solutions Development** (ML models, AI prototypes, NLP apps)
+* 📊 **Data Analysis & Dashboards** (Power BI, reporting, insights)
+* 🧠 **AI Product Support** (use cases, PRDs, product strategy)
+* 📈 **Consulting & Strategy** (data-driven decisions, business insights)
+
+---
+
 ## 🚀 Featured Projects
 
-- 🔍 **[Mobile Specification Analysis](#)**  
-  An AI-based study to identify key drivers of smartphone pricing and performance.
+* 🔍 **[Mobile Specification Analysis](#)**
+  AI-driven analysis to identify key factors affecting smartphone pricing and performance
 
-- 📊 **[Social Media Trends Analysis](#)**  
-  Data visualization and trend analysis across platforms using Python and Power BI.
+* 📊 **[Social Media Trends Analysis](#)**
+  Data analysis and visualization of user behavior and trends
 
-- 📡 **[Automated Motawif Monitoring System](#)**  
-  An IoT-AI project to improve safety and tracking during the Hajj season, aligned with Vision 2030.
+* 📡 **[Automated Motawif Monitoring System](#)**
+  IoT + AI solution for crowd management and safety during Hajj
 
 ✨ More projects coming soon—stay tuned!
 
@@ -72,8 +104,14 @@ My recent journey includes:
   </a>
 </p>
 
-I’m open to collaboration, internships, research opportunities, and meaningful discussions in AI, strategy, and innovation. Let’s connect!
+I’m open to **AI roles, consulting opportunities, collaborations, and innovative projects**. Let’s build something impactful together!
 
 ---
 
-**Happy coding! 💻**
+## ✨ Personal Mission
+
+To leverage **AI and data** to create intelligent solutions that simplify lives, empower decisions, and drive meaningful innovation.
+
+---
+
+**Building the future with AI, one model at a time! 💻**
